@@ -5,7 +5,7 @@
     "title": "REST API",
     "description": ""
   },
-  "host": "escola-production-21b2.up.railway.app",
+  "host": "localhost:3000",
   "basePath": "/",
   "schemes": [
     "http"
